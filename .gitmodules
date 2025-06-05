@@ -10,3 +10,6 @@
 [submodule "poweroffdevice"]
 	path = poweroffdevice
 	url = https://github.com/sirpdboy/luci-app-poweroffdevice.git
+[submodule "openclash"]
+	path = openclash
+	url = https://github.com/vernesong/OpenClash.git
