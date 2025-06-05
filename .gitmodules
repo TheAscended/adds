@@ -7,3 +7,6 @@
 [submodule "netspeedtest"]
 	path = netspeedtest
 	url = https://github.com/sirpdboy/luci-app-netspeedtest.git
+[submodule "poweroffdevice"]
+	path = poweroffdevice
+	url = https://github.com/sirpdboy/luci-app-poweroffdevice.git
