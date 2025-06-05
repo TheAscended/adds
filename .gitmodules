@@ -28,3 +28,9 @@
 [submodule "socat"]
 	path = socat
 	url = https://github.com/chenmozhijin/luci-app-socat.git
+[submodule "wrtbwmon"]
+	path = wrtbwmon
+	url = https://github.com/brvphoenix/luci-app-wrtbwmon.git
+[submodule "partexp"]
+	path = partexp
+	url = https://github.com/sirpdboy/luci-app-partexp.git
