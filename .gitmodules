@@ -43,3 +43,12 @@
 [submodule "luci-theme-argon"]
 	path = luci-theme-argon
 	url = https://github.com/jerrykuku/luci-theme-argon.git
+[submodule "luci-app-adguardhome"]
+	path = luci-app-adguardhome
+	url = https://github.com/rufengsuixing/luci-app-adguardhome.git
+[submodule "luci-app-argon-config"]
+	path = luci-app-argon-config
+	url = https://github.com/jerrykuku/luci-app-argon-config.git
+[submodule "luci-app-zerotier"]
+	path = luci-app-zerotier
+	url = https://github.com/rufengsuixing/luci-app-zerotier.git
