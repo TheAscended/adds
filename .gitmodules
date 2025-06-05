@@ -1,3 +1,9 @@
 [submodule "ddnsgo"]
 	path = ddnsgo
 	url = https://github.com/sirpdboy/luci-app-ddns-go.git
+[submodule "lucky"]
+	path = lucky
+	url = https://github.com/gdy666/luci-app-lucky.git
+[submodule "netspeedtest"]
+	path = netspeedtest
+	url = https://github.com/sirpdboy/luci-app-netspeedtest.git
