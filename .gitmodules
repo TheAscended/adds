@@ -25,3 +25,6 @@
 [submodule "argon-theme"]
 	path = argon-theme
 	url = https://github.com/jerrykuku/luci-theme-argon.git
+[submodule "socat"]
+	path = socat
+	url = https://github.com/chenmozhijin/luci-app-socat.git
