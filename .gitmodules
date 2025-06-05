@@ -37,3 +37,9 @@
 [submodule "passwall"]
 	path = passwall
 	url = https://github.com/xiaorouji/openwrt-passwall.git
+[submodule "luci-theme-argon.git"]
+	path = luci-theme-argon.git
+	url = https://github.com/jerrykuku/luci-theme-argon.git
+[submodule "luci-theme-argon"]
+	path = luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon.git
