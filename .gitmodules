@@ -52,3 +52,6 @@
 [submodule "luci-app-zerotier"]
 	path = luci-app-zerotier
 	url = https://github.com/rufengsuixing/luci-app-zerotier.git
+[submodule "small"]
+	path = small
+	url = https://github.com/TheAscended/small.git
