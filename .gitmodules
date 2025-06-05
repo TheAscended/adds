@@ -13,3 +13,6 @@
 [submodule "openclash"]
 	path = openclash
 	url = https://github.com/vernesong/OpenClash.git
+[submodule "zerotier"]
+	path = zerotier
+	url = https://github.com/rufengsuixing/luci-app-zerotier.git
