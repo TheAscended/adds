@@ -34,3 +34,6 @@
 [submodule "partexp"]
 	path = partexp
 	url = https://github.com/sirpdboy/luci-app-partexp.git
+[submodule "passwall"]
+	path = passwall
+	url = https://github.com/xiaorouji/openwrt-passwall.git
